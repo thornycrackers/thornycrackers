@@ -6,7 +6,7 @@ Early on, I discovered my passion for Python and Django, which naturally led me 
 Over time, I found my sweet spot in infrastructure and automation.
 A perfect blend of software and systems that bridges the gap between Computer Engineering and Software Engineering.
 
-Today, I’m a Staff Engineer working at Parse.ly, where I focus on creating systems that are not only robust but also developer-friendly.
+Today, I’m a Staff Engineer working at [PX Systems, Inc](https://px.app/), where I focus on creating systems that are not only robust but also developer-friendly.
 Whether it’s working with legacy systems or optimizing modern platforms, I thrive on tackling complex, technical problems.
 
 I streamline software development and deployment processes while reducing time to market.
